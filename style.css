@@ -1,0 +1,163 @@
+body{
+    padding: 30px 100px;
+    margin: 0;
+}
+
+.container{
+    background-color:blue;
+    padding: 20px 10px;
+    margin: 20px 0;
+    width: 100%;
+    border-radius: 8px;
+    justify-content: center;
+    display: grid;
+}
+.h1{
+    color: rgb(244, 240, 240);
+    justify-content: center;
+    display: flex;
+
+}
+.search{
+    justify-content: center;
+    display: flex;
+    width: 300% 100px;
+    
+    
+    /* padding: 7% 6px; */
+}
+.div8{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 220px;
+}
+
+.div8 div{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    margin: 0 10px;
+    justify-content: space-around;
+    align-items: center;
+   
+    
+    }
+   
+       .row1{
+        display: flex;
+        justify-content: space-around;
+        margin: 25px 0;
+    }
+    .row1 div{
+        width: 14%;
+        height: 25vh;
+        background-color: rgb(237, 237, 237);
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .row1 div:hover{
+        width: 14%;
+        height: 25vh;
+        background-color: rgb(138, 135, 135);
+    }
+    .row2{
+        display: flex;
+        justify-content: space-around;
+        margin: 25px 0;
+    }
+    .row2 div{
+        width: 14%;
+        height: 25vh;
+        background-color: rgb(237, 237, 237);
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .row2 div:hover{
+        width: 14%;
+        height: 25vh;
+        background-color: rgb(138, 135, 135);
+        border-radius: 8px;
+    }
+    .row3{
+        display: flex;
+        justify-content: space-around;
+        margin: 25px 0;
+       }
+       .row3 div{
+        width: 14%;
+        height: 25vh;
+        background-color: rgb(237, 237, 237);
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       }
+       .row3 div:hover{
+        width:14%;
+        height:25vh;
+        background-color: rgb(138, 135, 135);
+        border-radius: 8px;
+       }
+       section img{
+        text-align: center;
+        width: 80%;
+        height: 80%;
+        border-radius: 9px;
+        justify-content: center;
+        /* padding: 5px 20px; */
+       }
+       /* .row3 img{
+        margin: 32px 30.9px;
+        width: 65.9%;
+        height: 25vh 0;
+        border-radius: 9px;
+        justify-content: center;
+        padding: 5px 20px;
+       }
+       .row1 img{
+        margin: 32px 30.9px;
+        width: 65.9%;
+        height: 25vh 0;
+        border-radius: 9px;
+        justify-content: center;
+        padding: 5px 20px;
+    } */
+    .div8 img{
+           margin: 32px 30.9px;
+           width: 80%;
+           height: 25vh 0;
+           border-radius: 9px;
+           justify-content: center;
+        }
+        .search{
+            background-color: white;
+            width: 50%;
+            display: flex;
+            justify-self: center;
+            border-radius:8px ;
+        }
+        .search img{
+            height: 40px;
+            background-color: transparent;
+            border: 0;
+        }
+        .search input{
+            width: 90%;
+            background-color: transparent;
+            border: 0;
+            outline: none;
+        }
+       
+       
+       
+
+      
+       
